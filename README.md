@@ -9,10 +9,9 @@ Awesome (https://fontawesome.com/).
 The website layout and all building is solely done by me with some contributions from TUKL staff to collect necessary material 
 for the content.
 ## License
-'''
-Even though this repository contains the full-fledged website that can be deployed easily, however since the code is based on 
+> Even though this repository contains the full-fledged website that can be deployed easily, however since the code is based on 
 Canvas theme, you are required to purchase the base theme from EnvatoMarket. Regardless, permission is hereby granted to use 
 all material (except logos and pictures) without any consent and doesn't requires any attribution whatsoever. Feel free to fork 
 and modify to you will.
-''' 
+
 
